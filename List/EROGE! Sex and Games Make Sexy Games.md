@@ -29,7 +29,7 @@ After playing through Flower’s first title, Tomoya realizes that his co-worker
 >[!INFO]
 >This setting is for other version that not from steam store such as `Denpasoft`, `NekoNya`, `mangagamer`  
 
-Lutris prefix : lavfilters64 or typemoonengine64
+Lutris prefix : lavfilters64 or typemoonengine
 <br>
 ### Other config (Protontricks)
 ----
