@@ -7,13 +7,14 @@
 <p> <font size="4">&emsp; Release data : 13 Sep 2013</font></p>
 <p> <font size="4">&emsp; Price : $44.95 </font></p>
 <p> <font size="4">&emsp; Installer : Lutris </font></p>
+<br>
 <font size="5"><p align="center">Story</p></font>
 
 ---
 
 <div align="center">
   <a href="http://138.197.205.43/data/21.mp4">
-	  <img width="full" height="400" src="https://github.com/pondpondnaja/TestMD/blob/main/resource/eroge2.png?raw=true" alt="EROGE! Sex and Games Make Sexy Games">
+	  <img width="full" height="400" src="https://raw.githubusercontent.com/pondpondnaja/VNs/main/Res/eroge2.PNG" alt="EROGE! Sex and Games Make Sexy Games">
 	  </a>
 </div>
 <br/>
